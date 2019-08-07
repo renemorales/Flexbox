@@ -1,3 +1,3 @@
 # Flexbox
 
-pracricing flexbox by building Flexbox Layouts
+practicing flexbox CSS by building Flexbox Layouts
